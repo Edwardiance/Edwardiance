@@ -15,3 +15,9 @@
 
 # Workplace
 - Although I work for a company whose name I won't officially disclose, I also serve on the EPC (Ethics Procedures Committee), a developer community. Because it's not a very well-known community, you might find it difficult to find information about.
+
+# Technologies I Use Mostly
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=red)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=red)
